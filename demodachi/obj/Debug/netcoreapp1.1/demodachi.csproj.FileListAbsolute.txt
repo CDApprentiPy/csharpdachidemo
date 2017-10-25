@@ -1,0 +1,8 @@
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\bin\Debug\netcoreapp1.1\demodachi.deps.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\bin\Debug\netcoreapp1.1\demodachi.runtimeconfig.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\bin\Debug\netcoreapp1.1\demodachi.runtimeconfig.dev.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\bin\Debug\netcoreapp1.1\demodachi.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\bin\Debug\netcoreapp1.1\demodachi.pdb
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\obj\Debug\netcoreapp1.1\demodachi.AssemblyInfo.cs
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\obj\Debug\netcoreapp1.1\demodachi.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\dachi\demodachi\obj\Debug\netcoreapp1.1\demodachi.pdb

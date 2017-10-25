@@ -1,0 +1,26 @@
+<main>
+    <h3>Happyness: @ViewBag.dachi.happyness</h3>
+    <h3>Fullness: @ViewBag.dachi.fullness</h3>
+    <h3>Energy: @ViewBag.dachi.energy</h3>
+    <h3>Meals: @ViewBag.dachi.meals</h3>
+    <div>
+        <span>@ViewBag.dachi.message</span>
+    </div>
+    
+    <form action="/dontdie" method="POST">
+        <input type="hidden" name="activity" value="feed">
+        <input type="submit" value="Feed!">
+    </form>
+    <form action="/dontdie" method="POST">
+        <input type="hidden" name="activity" value="work">
+        <input type="submit" value="work">
+    </form>
+    <form action="/dontdie" method="POST">
+        <input type="hidden" name="activity" value="play>
+        <input type="submit" value="play">
+    </form>
+    <form action="/dontdie" method="POST">
+    <input type="hidden" name="activity" value="sleep">
+    <input type="submit" value="sleep">
+</form>
+</main>
